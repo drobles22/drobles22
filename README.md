@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Robles</h1>
 <h3 align="center">Informatic Engineer and Front-End UI/UX developer</h3>
 
-- 💬 Ask me about **css3, html5, javascrit and relational databases**
+- 💬 Ask me about **css3, html5, javascrit, REACT, and relational databases**
 
 - 📫 How to reach me **diego.anrm07@gmail.com**
 
